@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://i.imgur.com/vH1rYqQ.png" width="250" alt="Coding Bear">
+</div>
 # Hi 👋, Tôi là Chu Đình Bình 
 
 ### ⚙️ Backend Developer | Chuyên gia Spring Boot
