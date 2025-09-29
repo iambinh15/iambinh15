@@ -1,7 +1,3 @@
-<div class="alert alert-primary" role="alert">
-# Hi 👋, Tôi là Chu Đình Bình 
-
-</div>
 # Hi 👋, Tôi là Chu Đình Bình 
 
 ### ⚙️ Backend Developer | Chuyên gia Spring Boot
