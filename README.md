@@ -1,20 +1,12 @@
 <p align="right">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/img/walter.png" width="200" alt="Programming Bear"> 
+  <img src="https://media.giphy.com/media/Q81NCSmQo0oJ2Qd2H3/giphy.gif" width="200" alt="Coding Cat"> 
 </p>
 
-# Hi 👋, Tôi là [Tên của bạn]!
+# Hi 👋, Tôi là Chu Đình Bình 
 
 ### ⚙️ Backend Developer | Chuyên gia Spring Boot
 
-> Sinh viên [Ngành học] tại [Tên trường của bạn]. Tôi đam mê xây dựng các hệ thống Backend mạnh mẽ và hiệu suất cao, luôn tìm kiếm cơ hội học hỏi và áp dụng công nghệ mới.
-
----
-
-## 💡 Về tôi (About Me)
-
-* 🌱 **Hiện tại đang học:** [Liệt kê công nghệ bạn đang học, ví dụ: Spring Security, Docker, ReactJS]
-* 🤝 **Tìm kiếm cơ hội hợp tác:** Mở cửa cho các dự án mã nguồn mở (open-source) về Java/Spring.
-* ☕ **Ngoài code:** Tôi thích [Sở thích phi công nghệ, ví dụ: Chơi game, đọc sách khoa học, nghe nhạc EDM].
+> Sinh viên PHÁT TRIỂN PHẦN MỀM . Tôi đam mê xây dựng các hệ thống Backend mạnh mẽ và hiệu suất cao, luôn tìm kiếm cơ hội học hỏi và áp dụng công nghệ mới.
 
 ---
 
@@ -45,9 +37,7 @@
 * **Email:** [email-của-bạn@example.com]
 
 | Kênh Liên lạc | Thông tin |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Link LinkedIn của bạn]) |
-| **Facebook** | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([Link Profile Facebook của bạn]) |
-| **Zalo** | **[Số điện thoại Zalo của bạn]** (Liên hệ trực tiếp) |
+| **Facebook** |https://www.facebook.com/binh.chu.434869|
+| **Zalo** |0389415404 (BINH CHU)|
 
 ---
