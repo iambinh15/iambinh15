@@ -31,7 +31,7 @@
 
 ## 📞 Liên Hệ & Kết Nối (Reach Out to Me)
 
-* **Email:** iambinh.contact@gmail.com
+* **Email:** iambinh.contact@gmail.com.
 | Kênh Liên lạc | Thông tin |
 | **Mobile phone number** |0389415404 |
 | **Zalo** |0389415404 (BINH CHU)|
