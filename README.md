@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://i.imgur.com/vH1rYqQ.png" width="250" alt="Coding Bear">
+<div class="alert alert-primary" role="alert">
+# Hi 👋, Tôi là Chu Đình Bình 
+
 </div>
 # Hi 👋, Tôi là Chu Đình Bình 
 
