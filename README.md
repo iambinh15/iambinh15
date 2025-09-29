@@ -1,6 +1,3 @@
-<p align="right">
-  <img src="https://media.giphy.com/media/Q81NCSmQo0oJ2Qd2H3/giphy.gif" width="200" alt="Coding Cat"> 
-</p>
 
 # Hi 👋, Tôi là Chu Đình Bình 
 
@@ -36,7 +33,8 @@
 
 * **Email:** iambinh.contact@gmail.com
 | Kênh Liên lạc | Thông tin |
-| **Facebook** |https://www.facebook.com/binh.chu.434869|
+| **Mobile phone number** |0389415404 |
 | **Zalo** |0389415404 (BINH CHU)|
+
 
 ---
