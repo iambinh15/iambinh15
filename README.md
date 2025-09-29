@@ -34,8 +34,7 @@
 
 ## 📞 Liên Hệ & Kết Nối (Reach Out to Me)
 
-* **Email:** [email-của-bạn@example.com]
-
+* **Email:** iambinh.contact@gmail.com
 | Kênh Liên lạc | Thông tin |
 | **Facebook** |https://www.facebook.com/binh.chu.434869|
 | **Zalo** |0389415404 (BINH CHU)|
