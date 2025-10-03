@@ -34,6 +34,10 @@
 | Kênh Liên lạc | Thông tin |
 | **Mobile phone number** |0389415404 |
 | **Zalo** |0389415404 (BINH CHU)|
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iambinh15&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=00000000" alt="Đặng Anh Tuấn's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambinh15&layout=compact&theme=dark&hide_border=true&title_color=fff&text_color=fff&bg_color=00000000" alt="Most Used Languages" />
+</p>
 
 ---
