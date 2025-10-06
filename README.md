@@ -2,7 +2,7 @@
 
 ### ⚙️ Backend Developer | Chuyên gia Spring Boot
 
-> Sinh viên PHÁT TRIỂN PHẦN MỀM . Tôi đam mê xây dựng các hệ thống Backend mạnh mẽ và hiệu suất cao, luôn tìm kiếm cơ hội học hỏi và áp dụng công nghệ mới.
+ Sinh viên PHÁT TRIỂN PHẦN MỀM . Tôi đam mê xây dựng các hệ thống Backend mạnh mẽ và hiệu suất cao, luôn tìm kiếm cơ hội học hỏi và áp dụng công nghệ mới.
 
 ---
 
